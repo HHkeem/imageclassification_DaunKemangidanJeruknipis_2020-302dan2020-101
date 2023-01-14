@@ -1,6 +1,6 @@
-#Tugas Besar Kecerdasan Buatan C
+Tugas Besar Kecerdasan Buatan C
 
-#Image Classification
+Image Classification
 
-#Abdul Haqeem 202010370311302
-#Fahilah Muhammad Maulana 20201037031101
+Abdul Haqeem 202010370311302
+Fahilah Muhammad Maulana 20201037031101
